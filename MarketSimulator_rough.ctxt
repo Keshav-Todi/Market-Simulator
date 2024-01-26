@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MarketSimulator_rough
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numberOfDays
+comment2.target=double[][]\ generateMarketBounds(int)
+comment3.params=progress\ totalDays
+comment3.target=double\ getUpperBound(double,\ int)
+comment4.params=progress\ totalDays
+comment4.target=double\ getLowerBound(double,\ int)
+numComments=5

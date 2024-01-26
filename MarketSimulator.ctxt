@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MarketSimulator
+comment1.params=
+comment1.target=MarketSimulator()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=numDays
+comment3.target=void\ generateDailyMarketConditions(int)
+comment4.params=amt\ plt\ numberdays
+comment4.target=void\ simulateMarketForAllDays(double,\ int,\ int)
+numComments=5
