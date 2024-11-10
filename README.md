@@ -1,6 +1,8 @@
 **Market Simulator**
 This Market Simulator creates diverse market patterns, ideal for testing trading strategies when historical data is unavailable or for additional testing scenarios.
 
+Visual interface: https://github.com/Keshav-Todi/Market-Simulator/blob/main/market%20simulator.png
+
 **Features**
 
 **Customizable Market Patterns**
